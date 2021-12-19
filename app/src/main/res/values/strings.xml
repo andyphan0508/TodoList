@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoApplication-FinalProject</string>
+    <string name="welcome_to_todoapp">Welcome to ToDoApp!</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username:</string>
+    <string name="for_security_please_login_to_continue">For security, please login to continue!</string>
+</resources>
